@@ -17,7 +17,7 @@ const httpServer = createServer(app);
 // const { createServer } = require("http");
 // Correct way to instantiate OpenAI client with the apiKey option
 const openai = new OpenAI({
-  apiKey: "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"
+  apiKey: ""
 });
 
 // Rest of your server code...
